@@ -1,4 +1,4 @@
-<img align="center" height=500 alt="Header" src="https://wallpapercave.com/wp/wp4923991.png">
+<img align="center" width=500 alt="Header" src="https://wallpapercave.com/wp/wp4923991.png">
 <h1 align="center">Hi 👋, I'm dev-aligator</h1>
 <h3 align="center">I'll write the docs later.</h3>
 <img align="right" alt="Coding" width=400 src="image.png">
