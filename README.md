@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm dev-aligator</h1>
 <h3 align="center">I'll write the docs later.</h3>
+<img align="right" alt="Coding" width=400 src="image">
 
 - 🌱 I’m currently learning **React, Electron, etc..**
 
