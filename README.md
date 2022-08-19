@@ -9,4 +9,4 @@ Dev-Aligator/Dev-Aligator is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Spotify](novatorem-neon-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31dipze3bzdr3gpwsjtf2cynirfe)
+[![Spotify](https://novatorem-neon-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31dipze3bzdr3gpwsjtf2cynirfe)
