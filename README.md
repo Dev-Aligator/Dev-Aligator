@@ -3,7 +3,7 @@
 <h3 align="center">Code is poetry, and I'm a master of the craft.</h3>
 <img align="right" alt="Coding" width=400 src="image.png">
 
-I am a software developer proficient in both front-end and back-end development. I have experience working with programming languages such as C#, Java, C++, and Python. I mainly code in Arch Linux and I am also familiar with web development technologies such as HTML, CSS, JS, and React Native.
+I am a software developer proficient in both front-end and back-end development. I have experience working with programming languages such as C#, Java, C++, and Python. I mainly code in Arch Linux and I am also familiar with web development technologies such as HTML, CSS, JS, and React Native. You can reach me via email at [devaligator1004@gmail.com](mailto:devaligator1004@gmail.com).
 
 
 
