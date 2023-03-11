@@ -3,11 +3,7 @@
 <h3 align="center">I'll write the docs later.</h3>
 <img align="right" alt="Coding" width=400 src="image.png">
 
-- 🌱 I’m currently learning **React, Electron, etc..**
-
-- 📫 How to reach me **devaligator1004@gmail.com**
-
-- ⚡ Fun fact **Alligators don’t sweat.**
+I am a software developer proficient in both front-end and back-end development. I have experience working with programming languages such as C#, Java, C++, and Python. I mainly code in Arch Linux and I am also familiar with web development technologies such as HTML, CSS, JS, and React Native.
 
 
 
