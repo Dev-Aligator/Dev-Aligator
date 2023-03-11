@@ -1,6 +1,6 @@
 <img align="center" alt="Header" src="header.png">
 <h1 align="center">Hi 👋, I'm dev-aligator</h1>
-<h3 align="center">I'll write the docs later.</h3>
+<h3 align="center">Code is poetry, and I'm a master of the craft.</h3>
 <img align="right" alt="Coding" width=400 src="image.png">
 
 I am a software developer proficient in both front-end and back-end development. I have experience working with programming languages such as C#, Java, C++, and Python. I mainly code in Arch Linux and I am also familiar with web development technologies such as HTML, CSS, JS, and React Native.
