@@ -1,21 +1,37 @@
-<img align="center" alt="Header" src="header.png">
-<h1 align="center">Hi 👋, I'm dev-aligator</h1>
-<h3 align="center">Code is poetry, and I'm a master of the craft.</h3>
-<img align="right" alt="Coding" width=400 src="image.png">
+<!-- Introduction Section -->
+<center>
+<h1 align="center" style="margin-bottom: 0;">Nguyễn Hoàng Tân</h1>
+<h3 align="center" style="margin-top: 0;">Software and Machine Learning Engineer</h3>
+<table>
+  <tr>
+    <td>📱 +84 938441492</td>
+    <td>✉️ devaligator1004@gmail.com</td>
+    <td>🏠 HCM, VN</td>
+  </tr>
 
-I am a software developer proficient in both front-end and back-end development. I have experience working with programming languages such as C#, Java, C++, and Python. I mainly code in Arch Linux and I am also familiar with web development technologies such as HTML, CSS, JS, and React Native. You can reach me via email at [devaligator1004@gmail.com](mailto:devaligator1004@gmail.com).
+</table>
+</center>
 
+<!-- Profile Section -->
+<center>
+I am a software engineer with a strong enthusiasm for creating web applications and machine learning models. I have expertise in working with both Linux and Windows environments.
+</center>
 
+<!-- Languages - Frameworks - Tools Section -->
+<h2 align="center">Languages - Frameworks - Tools</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,php,net" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,postgres,mysql,django" /><br>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<hr>
-<h3 align="left">Spotify now playing:</h3>
-
-[![Spotify](https://novatorem-dev-aligator.vercel.app/api/spotify)](https://open.spotify.com/user/31dipze3bzdr3gpwsjtf2cynirfe)
-
-
-
-
+<br>
+<!-- Stats Section -->
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap:20px">
+  <div style="flex: 1; min-width: 390px;">
+    <img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Dev-Aligator&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+    <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Dev-Aligator&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  </div>
+    <div style="flex: 1; min-width: 325px;">
+    <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dev-Aligator&hide=HTML,Jupyter Notebook&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  </div>
+</div>
